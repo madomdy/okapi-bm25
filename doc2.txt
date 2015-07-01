@@ -1,0 +1,2 @@
+Another document for testing. This test differs and contains less words on
+the topic. But there are some words. One or two. Like in the first document.
